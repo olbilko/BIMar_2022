@@ -1,13 +1,12 @@
-# BIMar2021_Fraud
+# BIMar_2022
 Project title
-Fraud Detection and Analysis in Credit Card Transactions
+Saleforce CMR lovers in Instagram
 
 Project mission and goal:
-It is important that credit card companies are able to recognize fraudulent credit card transactions 
-so that customers are not charged for items that they did not purchase.
+That always doog to know what type of customers love Saleforce CRM
 
 Project attributes:
-Credit Card transaction data provided for randomly generated two days period: frodulent and non-frodulent data
+Instagramm users data that use Salesforce
 
 Analysed Metrix:
 Performance Metrix, Quantitative Metrix
